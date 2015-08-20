@@ -14,6 +14,7 @@
 		2F26DFE81B81952700A7ECE6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F26DFE71B81952700A7ECE6 /* Images.xcassets */; };
 		2F26DFEB1B81952700A7ECE6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F26DFE91B81952700A7ECE6 /* LaunchScreen.xib */; };
 		2F26DFF71B81952700A7ECE6 /* UIScrollView_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F26DFF61B81952700A7ECE6 /* UIScrollView_SolutionTests.m */; };
+		2F26E0011B81962900A7ECE6 /* worldMap.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F26E0001B81962900A7ECE6 /* worldMap.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		2F26DFF01B81952700A7ECE6 /* UIScrollView SolutionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UIScrollView SolutionTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F26DFF51B81952700A7ECE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F26DFF61B81952700A7ECE6 /* UIScrollView_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_SolutionTests.m; sourceTree = "<group>"; };
+		2F26E0001B81962900A7ECE6 /* worldMap.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = worldMap.jpeg; path = ../../../../Downloads/worldMap.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		2F26DFDA1B81952700A7ECE6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2F26E0001B81962900A7ECE6 /* worldMap.jpeg */,
 				2F26DFDB1B81952700A7ECE6 /* Info.plist */,
 				2F26DFDC1B81952700A7ECE6 /* main.m */,
 			);
@@ -202,6 +205,7 @@
 				2F26DFE61B81952700A7ECE6 /* Main.storyboard in Resources */,
 				2F26DFEB1B81952700A7ECE6 /* LaunchScreen.xib in Resources */,
 				2F26DFE81B81952700A7ECE6 /* Images.xcassets in Resources */,
+				2F26E0011B81962900A7ECE6 /* worldMap.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
